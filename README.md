@@ -8,11 +8,10 @@ The simulation visualizes how a robot continuously senses obstacles and makes mo
 
 ## 🎥 Simulation Demo
 
-The video below shows the robot navigating the environment in real time and avoiding obstacles automatically.
+The video below shows the robot navigating in real time:
 
-<video src="https://raw.githubusercontent.com/aruleshrobotics-amhy/robot-navigation-pygame/main/simulation.mp4" controls width="600">
-Your browser does not support the video tag.
-</video>
+https://raw.githubusercontent.com/aruleshrobotics-amhy/robot-navigation-pygame/main/simulation.mp4
+
 
 ---
 
@@ -106,6 +105,7 @@ Arulesh P P
 
 
 Robotics-Oriented Python Software Engineer
+
 
 
 
